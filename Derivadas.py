@@ -1,6 +1,6 @@
 
 import sympy as sp
-'''
+
 #Definindo as variáveis
 x = sp.symbols('x')
 
@@ -19,7 +19,7 @@ derivada = sp.diff(f_g_x,x)
 
 #Exibindo o resultado
 print(f"f'(g(x)) = {f_g_x}")
-print(f"f'(g(x))' = {derivada}")'''
+print(f"f'(g(x))' = {derivada}")
 
 #Exercício 2
 #Definindo as variáveis
